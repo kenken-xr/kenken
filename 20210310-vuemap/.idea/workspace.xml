@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92bf149a-cb82-447f-b6ab-84fdb657343d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/dataManage.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="545" column="8" selection-start-line="545" selection-start-column="8" selection-end-line="545" selection-end-column="8" />
+              <folding>
+                <element signature="n#template#0;n#!!top" />
+                <element signature="n#script#0;n#!!top" />
+                <element signature="e#2715#6679#0" />
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/echartsPie.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="155" selection-end-column="9" />
+              <folding>
+                <element signature="n#script#0;n#!!top" />
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/mapLegend.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="n#template#0;n#!!top" />
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/rangeSelector.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="23" selection-start-line="23" selection-end-line="71" selection-end-column="9" />
+              <folding>
+                <element signature="n#template#0;n#!!top" />
+                <element signature="n#script#0;n#!!top" />
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/timeLine.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="25" selection-start-line="25" selection-end-line="85" selection-end-column="9" />
+              <folding>
+                <element signature="n#template#0;n#!!top" />
+                <element signature="n#script#0;n#!!top" />
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/title.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <element signature="n#template#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="35" selection-start-line="35" selection-end-line="44" selection-end-column="8" />
+              <folding>
+                <element signature="n#script#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/loading.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/components/newVue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/porject/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/porject/src/components/rangeSelector.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="15" />
+    <option name="width" value="870" />
+    <option name="height" value="695" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20210310-vuemap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20210310-vuemap" type="462c0819:PsiDirectoryNode" />
+              <item name="porject" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wcy/1-VueProject/service center(本地服务器" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92bf149a-cb82-447f-b6ab-84fdb657343d" name="Default Changelist" comment="" />
+      <created>1621582977664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621582977664</updated>
+      <workItem from="1621582978862" duration="18000" />
+      <workItem from="1623725192044" duration="210000" />
+      <workItem from="1623727475036" duration="604000" />
+      <workItem from="1623980847424" duration="51000" />
+      <workItem from="1624870770693" duration="4107000" />
+      <workItem from="1625538099314" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5594000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14531043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2545969" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/porject/scripts/localization.js" />
+        <option value="$PROJECT_DIR$/porject/scripts/initdashboard.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/scripts/localization.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/scripts/initdashboard.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/responsivepanel/typescript-responsivepanel.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/responsivepanel/typescript-responsivepanel.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/formattedinput/typescript-formattedinput.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/formattedinput/typescript-formattedinput.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dropdownbutton/typescript-dropdownbutton.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dropdownbutton/typescript-dropdownbutton.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/rangeselector/typescript-rangeselector.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/rangeselector/typescript-rangeselector.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/passwordinput/typescript-passwordinput.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/passwordinput/typescript-passwordinput.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/navigationbar/typescript-navigationbar.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/navigationbar/typescript-navigationbar.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dockinglayout/typescript-dockinglayout.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dockinglayout/typescript-dockinglayout.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datetimeinput/typescript-datetimeinput.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datetimeinput/typescript-datetimeinput.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/switchbutton/typescript-switchbutton.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/switchbutton/typescript-switchbutton.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/notification/typescript-notification.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/notification/typescript-notification.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dropdownlist/typescript-dropdownlist.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dropdownlist/typescript-dropdownlist.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/complexinput/typescript-complexinput.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/complexinput/typescript-complexinput.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/radiobutton/typescript-radiobutton.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/radiobutton/typescript-radiobutton.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/progressbar/typescript-progressbar.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/progressbar/typescript-progressbar.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/numberinput/typescript-numberinput.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/numberinput/typescript-numberinput.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/maskedinput/typescript-maskedinput.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/maskedinput/typescript-maskedinput.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/lineargauge/typescript-lineargauge.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/lineargauge/typescript-lineargauge.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/colorpicker/typescript-colorpicker.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/colorpicker/typescript-colorpicker.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/buttongroup/typescript-buttongroup.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/buttongroup/typescript-buttongroup.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/bulletchart/typescript-bulletchart.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/bulletchart/typescript-bulletchart.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scrollview/typescript-scrollview.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scrollview/typescript-scrollview.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/fileupload/typescript-fileupload.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/fileupload/typescript-fileupload.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/validator/typescript-validator.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/validator/typescript-validator.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scrollbar/typescript-scrollbar.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scrollbar/typescript-scrollbar.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scheduler/typescript-scheduler-resources.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scheduler/typescript-scheduler-resources.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scheduler/typescript-scheduler.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/scheduler/typescript-scheduler.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dockpanel/typescript-dockpanel.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dockpanel/typescript-dockpanel.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-sorting.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-sorting.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-filtering.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-filtering.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-paging.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-paging.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-editing.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/datatable/typescript-datatable-editing.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/treegrid/typescript-treegrid.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/treegrid/typescript-treegrid.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/treegrid/typescript-treegrid-virtualmode.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/treegrid/typescript-treegrid-virtualmode.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/textarea/typescript-textarea.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/textarea/typescript-textarea.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tagcloud/typescript-tagcloud.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tagcloud/typescript-tagcloud.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/splitter/typescript-splitter.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/splitter/typescript-splitter.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/sortable/typescript-sortable.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/sortable/typescript-sortable.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/listmenu/typescript-listmenu.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/listmenu/typescript-listmenu.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/expander/typescript-expander.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/expander/typescript-expander.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dragdrop/typescript-dragdrop.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/dragdrop/typescript-dragdrop.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/combobox/typescript-combobox.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/combobox/typescript-combobox.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/checkbox/typescript-checkbox.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/checkbox/typescript-checkbox.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/calendar/typescript-calendar.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/calendar/typescript-calendar.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/bargauge/typescript-bargauge.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/bargauge/typescript-bargauge.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/treemap/typescript-treemap.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/treemap/typescript-treemap.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tooltip/typescript-tooltip.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tooltip/typescript-tooltip.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/toolbar/typescript-toolbar.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/toolbar/typescript-toolbar.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/popover/typescript-popover.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/popover/typescript-popover.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/listbox/typescript-listbox.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/listbox/typescript-listbox.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/docking/typescript-docking.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/docking/typescript-docking.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/window/typescript-window.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/window/typescript-window.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/slider/typescript-slider.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/slider/typescript-slider.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/ribbon/typescript-ribbon.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/ribbon/typescript-ribbon.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/rating/typescript-rating.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/rating/typescript-rating.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/navbar/typescript-navbar.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/navbar/typescript-navbar.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/loader/typescript-loader.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/loader/typescript-loader.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/layout/typescript-layout.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/layout/typescript-layout.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/kanban/typescript-kanban.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/kanban/typescript-kanban.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/editor/typescript-editor.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/editor/typescript-editor.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/button/typescript-button.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/button/typescript-button.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/panel/typescript_panel.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/panel/typescript_panel.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/input/typescript-input.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/input/typescript-input.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/gauge/typescript-gauge.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/gauge/typescript-gauge.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart-donutseries.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart-donutseries.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart-polarseries.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart-polarseries.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart-columnlocaldata.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/chart/typescript-chart-columnlocaldata.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tree/typescript-tree.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tree/typescript-tree.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tabs/typescript-tabs.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/tabs/typescript-tabs.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/menu/typescript-menu.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/menu/typescript-menu.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/knob/typescript-knob.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/knob/typescript-knob.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-paging.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-paging.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-editing.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-editing.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-filtering.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-filtering.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-grouping.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-grouping.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-nestedgrids.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-nestedgrids.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-filterrow.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid-filterrow.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/grid/typescript-grid.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/draw/typescript-draw.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Typescript/draw/typescript-draw.js.map" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/sampledata/generatedata.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Angular/sampledata/generatedata.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Angular/scripts/localization.js" />
+        <option value="$PROJECT_DIR$/porject/src/assets/jqwidgets-scripts/demos/Angular/scripts/initdashboard.js" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/porject/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/bmap.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="169" selection-end-column="9" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/dataManage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="545" column="8" selection-start-line="545" selection-start-column="8" selection-end-line="545" selection-end-column="8" />
+          <folding>
+            <element signature="n#template#0;n#!!top" />
+            <element signature="n#script#0;n#!!top" />
+            <element signature="e#2715#6679#0" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/echartsPie.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="155" selection-end-column="9" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/mapLegend.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="n#template#0;n#!!top" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/rangeSelector.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" selection-start-line="23" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="n#template#0;n#!!top" />
+            <element signature="n#script#0;n#!!top" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/timeLine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="25" selection-start-line="25" selection-end-line="85" selection-end-column="9" />
+          <folding>
+            <element signature="n#template#0;n#!!top" />
+            <element signature="n#script#0;n#!!top" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/title.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" selection-start-line="35" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/newVue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/porject/src/components/loading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
