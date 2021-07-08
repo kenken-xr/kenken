@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>map</title>
+    <!--slider-->
+    <link href="css/dateSlider.css" type="text/css" rel="stylesheet"/>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.ui.js"></script>
+    <script type="text/javascript" src="js/DateSlider.js"></script>
+</head>
+
+<body onload="startTime()">
+<div id="container" class="pmapbox" style="overflow:hidden;zoom:1;position:absolute;">
+    <!--map-->
+    <div id="map" style="height:100%;-webkit-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out;"></div>
+    <!--logo-->
+    <div class="logo"></div>
+    <!--专题类型Tab-->
+    <ul class="mtab-box">
+        <li xtype="zl" class="selected"></li>
+        <li xtype="tf"></li>
+    </ul>
+    <!--天气-->
+    <div class="weatherbox">
+        <div class="weather-prlt-box">
+            <!--日期-->
+            <div class="daybox">
+                <span id="day">
+                    <script type="text/javascript">
+                     var date = new Date();
+                     document.write( date.getFullYear() + "年" + (date.getMonth() + 1) + "月" + date.getDate() + "日" + " 星期" + "日一二三四五六".charAt(date.getDay()));
+                   </script>
+                </span>
+            </div>
+            <div class="tempBox">
+                <div id="he-plugin-simple"></div>
+                <script>
+                    WIDGET = {
+                        CONFIG: {
+                            "modules": "02",
+                            "background": 5,
+                            "tmpColor": "#FFFFFF",
+                            "tmpSize": 22,
+                            "weatherIconSize": "90",
+                            "fixed": "false",
+                            "vertical": "middle",
+                            "horizontal": "center",
+                            "key": "2a73f53d6d3c43e4bbf074c8540d7d2e"
+                        }
+                    }
+                </script>
+                <script src="https://widget.heweather.net/simple/static/js/he-simple-common.js?v=1.1"></script>
+            </div>
+            <!--时钟-->
+            <div class="timebox">
+                <span id="lblCHours"></span>
+            </div>
+        </div>
+    </div>
+    <!--智慧城管-->
+    <div class="smart-cg-box">
+        <div class="kpi-box">
+            <!--数字统计-->
+            <ul class="cg-num-stat">
+                <li class="cg-num-box">
+                        <div class="fkh-left"></div>
+                        <div><input type="button" id="SelectArea" value="选 择 区 域" class="button" onclick="draw(BMAP_DRAWING_RECTANGLE)"></div>
+                        <div class="fkh-right"></div>
+                </li>
+                <br><br><br><br>
+                <li class="cg-num-box">
+                        <div class="fkh-left"></div>
+                        <div><input type="button" id="clearArea" value="清 除 区 域" class="button" onclick="clearRec()"></div>
+                        <div class="fkh-right"></div>
+                </li>
+                <br><br><br><br>
+                <li class="cg-num-box">
+                        <div class="fkh-left"></div>
+                        <div><input type="button" id="sure" value="确 定" class="button" onclick="sure()"></div>
+                        <div class="fkh-right"></div>
+                </li>
+                <br><br><br><br>
+                <li class="cg-num-box">
+                    <div class="fkh-left"></div>
+                    <div><input type="button" id="behaviorPredict" value="行 为 分 析" class="button" onclick="behaviorAnalyse()" ></div>
+                    <div class="fkh-right"></div>
+                </li>
+                <br><br><br><br>
+                <li class="cg-num-box">
+                    <div class="fkh-left"></div>
+                    <div><input type="button" id="tableToExcel" value="导 出 表 格" class="button" onclick="tableToExcel()"></div>
+                    <div class="fkh-right"></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--timeline-->
+    <div class="dateSlider" id="dateSlider" ></div>
+    <!--legend-->
+    <div class="legend">
+        <table class="legendTable">
+            <tr height="30px"><th> <img src='./images/point-yellow.png'/></th><th>查询结果</th></tr>
+            <tr height="30px"><th> <img src='./images/point-green.png'/></th><th>餐饮</th></tr>
+            <tr height="30px"><th> <img src='./images/point-orange.png'/></th><th>娱乐</th></tr>
+            <tr height="30px"><th> <img src='./images/point-pink.png'/></th><th>生活服务</th></tr>
+            <tr height="30px"><th> <img src='./images/point-purple.png'/></th><th>出行住宿</th></tr>
+            <tr height="30px"><th> <img src='./images/point-red.png'/></th><th>户外</th></tr>
+            <tr height="30px"><th> <img src='./images/point-white.png'/></th><th>校园</th></tr>
+        </table>
+    </div>
+</div>
+</body>
+
+<!--ak-->
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=abK3hnineiMx4jegNSYMu2lUhxkO44qn"></script>
+<!--加载鼠标绘制工具-->
+<script type="text/javascript" src="js/DrawingManager_min.js"></script>
+<link rel="stylesheet" href="css/DrawingManager_min.css" />
+<!--加载检索信息窗口-->
+<script type="text/javascript" src="js/SearchInfoWindow_min.js"></script>
+<link rel="stylesheet" href="css/SearchInfoWindow_min.css" />
+<!--导出图片 html2canvas-->
+<script src="js/html2canvas.min.js"></script>
+<!--导出图片 html2canvas-->
+<script src="js/html2canvas.min.js"></script>
+<!--导出表格-->
+<script src="js/jquery-tabletoExcel.js"></script>
+<!--main-->
+<link rel="stylesheet" href=css/main.css />
+<link rel="stylesheet" href=css/pstyle.css />
+<link rel="stylesheet" href=css/animate.css />
+<link rel="stylesheet" href=css/normalize.css />
+<script type="text/javascript" src="func/main.js"></script>
+<script type="text/javascript" src="func/rectangle.js"></script>
+<script type="text/javascript" src="func/slide.js"></script>
+
+</html>

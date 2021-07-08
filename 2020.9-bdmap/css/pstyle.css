@@ -1,0 +1,176 @@
+/*自定义字体*/
+@font-face {
+    font-family: AgencyFBBold;
+    src: url('../css/font/Agency_FB_Bold.otf');
+}
+/*@font-face {*/
+    /*font-family: FZZCH;*/
+    /*src: url('font/FZZCHJW.otf');*/
+/*}*/
+/*自定义动画*/
+.animated-2s {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+}
+@-webkit-keyframes red-pulse {
+    from { -webkit-box-shadow: 0 0 5px rgba(233,101,101,0.2) inset; }
+    50% { -webkit-box-shadow: 0 0 40px rgba(233,101,101,0.8) inset; }
+    to { -webkit-box-shadow: 0 0 10px rgba(233,101,101,0.4) inset; }
+}
+
+/*定义页面样式*/
+* {
+    -webkit-font-smoothing: none;
+}
+html {
+    overflow: hidden;
+}
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: #091228;
+    color:#fff;
+}
+/*地图*/
+.pmapbox {
+    width: 100%;
+    height: 100%;
+}
+.logo {
+    position: absolute;
+    background: url("../images/logo-2.png") no-repeat;
+    width: 1200px;
+    height: 128px;
+    left: 45px;
+    top: 4px;
+    z-index: 8999;
+    cursor: pointer;
+}
+/*时钟/天气*/
+.weatherbox {
+    position: absolute;
+    background: url("../images/weather-box.png") no-repeat;
+    width: 201px;
+    height: 183px;
+    right: 40px;
+    top: 10px;
+    z-index: 8999;
+}
+.weatherbox > .weather-prlt-box {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.weatherbox > .weather-prlt-box > .daybox {
+    position: absolute;
+    width: 183px;
+    left: 10px;
+    top: 15px;
+    font-size: 16px;
+    /*font-family: "microsoft yahei";*/
+    text-align: center;
+    text-shadow: 0 0 5px #fff;
+}
+/*ss*/
+.wBox {
+    position: absolute;
+    top: 38px;
+    right: 14px;
+}
+.tempBox{
+    position: absolute;
+    top:50px;
+    right:20px;
+}
+.timebox {
+    position: absolute;
+    width: 100px;
+    left: 53px;
+    bottom: -18px;
+    text-align: center;
+}
+.timebox > span,
+.timebox > label {
+    color: #fff;
+    font-size: 32px;
+    letter-spacing: 2px;
+    text-shadow: 0 0 5px #fff;
+}
+/*左右边框样式*/
+/*ss*/
+.fkh-left{
+    background:url("../images/fkh-left.png") no-repeat;
+    width: 10px;
+    height: 39px;
+    position: absolute;
+    left: 25px;
+    /*float: left;*/
+}
+/*ss*/
+.fkh-right{
+    /*float: left;*/
+    background:url("../images/fkh-right.png") no-repeat;
+    width: 10px;
+    height: 39px;
+    position: absolute;
+    left: 320px;
+}
+
+/*智慧城管*/
+.smart-cg-box {
+    position: absolute;
+    background: url("../images/smart-data-box.png") no-repeat;
+    width: 362px;
+    height: 360px;
+    top: 132px;
+    left: 15px;
+    z-index: 8999;
+}
+/*内框*/
+/*ss*/
+.smart-cg-box > .kpi-box{
+    position: relative;
+    top:52px;
+    width:100%;
+    height:238px;
+}
+.kpi-box ul{
+    padding:0;
+    margin:0;
+    display: block;
+    list-style: none;
+}
+/*数字统计*/
+ul.cg-num-stat{
+    position: relative;
+    left:0;
+    top:0;
+    height:70px;
+}
+.cg-num-box{
+    float: left;
+    width:95px;
+    margin-top:13px;
+    margin-left:10px;
+    margin-right:10px;
+    text-align: center;
+}
+.cg-num-box:first-child{
+    margin-left:15px;
+}
+.cg-num > .cg-fkh-num{
+    float: left;
+    height: 39px;
+    line-height: 39px;
+    font-size:24px;
+    font-weight:bold;
+    width: calc(100% - 20px);
+}
+.cg-num-box > .cg-title{
+    font-size: 16px;
+}
