@@ -1,0 +1,10 @@
+include ':smile-dialog'
+include ':library'
+include ':library'
+include ':phototagginglibrary'
+include ':app'
+
+include ':app',':smile-dialog'
+
+project(':library').projectDir = new File(rootDir, 'smile-dialog/library/')
+rootProject.name = "My Application2"

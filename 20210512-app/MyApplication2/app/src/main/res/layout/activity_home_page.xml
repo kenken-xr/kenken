@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFCC"
+    tools:context=".HomePage">
+
+        <!--        <ImageView-->
+        <!--            android:id="@+id/imageIV"-->
+        <!--            android:layout_width="282dp"-->
+        <!--            android:layout_height="427dp"-->
+        <!--            android:layout_gravity="center"-->
+        <!--            android:layout_marginTop="104dp"-->
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintHorizontal_bias="0.519"-->
+        <!--            app:layout_constraintStart_toStartOf="parent"-->
+        <!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+        <Button
+            android:id="@+id/photo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="191dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="408dp"
+            android:background="@drawable/shape_circle"
+            android:text="+"
+            android:textColor="@color/white"
+            android:textSize="30dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/home_camera_message"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+        <Button
+            android:id="@+id/home_camera_message"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="432dp"
+            android:layout_marginBottom="275dp"
+            android:background="@drawable/shape_circle_trans"
+            android:text="@string/weq"
+            android:textColor="#FFCC33"
+            app:layout_constraintBottom_toTopOf="@+id/home_choose_message"
+            app:layout_constraintStart_toEndOf="@+id/photo"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!--        <Button-->
+        <!--            android:id="@+id/jumpto"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginTop="580dp"-->
+        <!--            android:layout_marginEnd="256dp"-->
+        <!--            android:text="@string/jumpto"-->
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+        <Button
+            android:id="@+id/choose_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="34dp"
+            android:layout_marginBottom="108dp"
+            android:background="@drawable/shape_rec"
+            android:text="选择图片"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/home_choose_message" />
+
+        <Button
+            android:id="@+id/home_choose_message"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginStart="251dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginBottom="122dp"
+            android:background="@drawable/shape_circle_trans"
+            android:text="@string/weq"
+            android:textColor="#FFCC33"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/choose_photo"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/home_camera_message" />
+
+        <Button
+            android:id="@+id/upload_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="34dp"
+            android:layout_marginBottom="32dp"
+            android:background="@drawable/shape_rec"
+            android:text="上传图片"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <Button
+            android:id="@+id/clean"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/shape_rec"
+            android:text="清除文件夹"
+            android:textColor="@color/white"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!--        <Button-->
+        <!--            android:id="@+id/home_upload_message"-->
+        <!--            android:layout_width="20dp"-->
+        <!--            android:layout_height="20dp"-->
+        <!--            android:layout_marginStart="250dp"-->
+        <!--            android:layout_marginEnd="19dp"-->
+        <!--            android:layout_marginBottom="46dp"-->
+        <!--            android:background="@drawable/shape_circle_trans"-->
+        <!--            android:text="@string/weq"-->
+        <!--            android:textColor="#FFCC33"-->
+        <!--            app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--            app:layout_constraintEnd_toStartOf="@+id/upload_photo"-->
+        <!--            app:layout_constraintStart_toStartOf="parent"-->
+        <!--            app:layout_constraintTop_toBottomOf="@+id/home_choose_message" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
